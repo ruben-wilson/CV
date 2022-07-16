@@ -103,11 +103,12 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 #### Any other qualifications
 
 ●	Strong problem solving and numeracy skills.
+
 ●	Strong communication skills, both written and verbal, developed through education and customer facing exsprience gained from previous jobs. 
+
 ●	Ability to take the initiative and work well under pressure, ensuring strict deadlines are met.
+
 ●	Strong team player with good  interpersonal skills
-
-
 ## Hobbies
 
 I like to run and train on daily basis, i use exercise to control stress, motivation, and focus. I also like to play five aside with friends and injoy walking with my dog. However when im not using my freetime doing somthing physical i have a strong passion for history and art often spending weekends visting musems and gallereys. 
