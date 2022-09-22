@@ -101,13 +101,13 @@ A intensive 16-week bootcamp focusing on:
 
 #### Areas of strength
 
-●	Strong problem-solving and numerical skills.
+- Strong problem-solving and numerical skills.
 
-●	Strong communication skills, both written and verbal, developed through education and customer-facing experience gained in previous jobs. 
+- Strong communication skills, both written and verbal, developed through education and customer-facing experience gained in previous jobs. 
 
-●	Ability to take the initiative and work well under pressure, ensuring strict deadlines are met.
+- Ability to take the initiative and work well under pressure, ensuring strict deadlines are met.
 
-●	Strong team player with effective interpersonal skills
+- Strong team player with effective interpersonal skills
 
 ## Hobbies
 
