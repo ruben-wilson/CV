@@ -36,9 +36,9 @@ Apprentice renewables engineer
 
 -essential plumbing methods and techniques.
 
-Prestige Roofing Company (September 2019 – present)  
+Prestige Roofing Company (September 2019 – present)
 
-      Roofer
+Roofer
 
 -	Prestige Roofing are a North Dorset independent roofing company that sub-contract jobs to multiple self-employed roofing teams.
 
