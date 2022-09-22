@@ -5,15 +5,10 @@ I am a twenty-year-old junior developer. Despite what I lack in years I make up 
 ## Projects
 
 | Name                         | Description       | Tech/tools        |
-
 | ---------------------------- | ----------------- | ----------------- |
-
 | Acebook                      | a Facebook clone. | node, express, jest, nodemon, hbs, Mongoose and cypress
-
 | MakersBnB                    | a Airbnb clone.   | sinatra, rackup, rspec, postgreSQL, tableplus and bootstrap
-
 | NotesApp                     |a dynamic note taking| node, jest, prettier and nodemon
-
 |                              |   web app.         |
 
 ## Work Experience
