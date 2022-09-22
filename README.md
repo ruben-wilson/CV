@@ -47,7 +47,7 @@ Roofer
 
 -	Experienced in meeting strict deadlines in compliance with the price structure of the contract.
 
--	Task leader, I have often had to collect, organise and assign roles to other labourers to complete various tasks. 
+-	As Task leader, I have often had to collect, organise and assign roles to other labourers to complete various tasks. 
 
 -	Regular interaction with Company and site managers to coordinate jobs across trades and meet deadlines. 
 
