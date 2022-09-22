@@ -5,11 +5,17 @@ I am a twenty-year-old junior developer. Despite what I lack in years I make up 
 ## Projects
 
 | Name                         | Description       | Tech/tools        |
+
 | ---------------------------- | ----------------- | ----------------- |
+
 | Acebook                      | a Facebook clone. | node, express, jest, nodemon, hbs, Mongoose and cypress
+
 | MakersBnB                    | a Airbnb clone.   | sinatra, rackup, rspec, postgreSQL, tableplus and bootstrap
+
 | NotesApp                     |a dynamic note taking| node, jest, prettier and nodemon
-                                  web app. 
+
+|                              |   web app.         |
+
 ## Work Experience
 
 #### Power Naturally (start-date to end-date)  
@@ -55,17 +61,24 @@ Roofer
 ## Skills
 
 #### Determinated 
- i am always persistant in anything i do wether that is waking up at 5AM to train for the marines before work or staying up till past midnight to try solve a bug in one of my makers team projects, im always ready to give my all to achieve my goal. 
+
+ i am always persistent in anything i do, whether that is waking up at 5AM to train for the marines before work or staying up till past midnight to try to solve a bug in one of my makers team projects, I am always ready to give my all to achieve my goal. 
 
 ### Team Player
-i injoy the  elevated levels of learning that seem to only be achieveable by working as a group. i also injoy the socail aspect of working in a team and love being able to use my enthusiam to motivate thoes around me and lift team spirits.
+
+I enjoy the elevated levels of learning that can be achieved by working as a group. I also enjoy the social aspect of working in a team and love being able to use my enthusiasm to motivate those around me and lift team spirits.
+
  
+
  ### Punctual 
- Im not sure wehter it was waking up early to work on the roofs or the threats of thrashings in the marines but ive always taken great pride in good time keeping. wether that means organising work to makesure i meet deadlines or simple arriving on time, i like to to keep to be punctual.
+
+ I'm not sure whether it was waking up early to work on the roofs or the threats of thrashings in the marines. However, I have always taken great pride in good time keeping. Whether it be planning my work to meet deadlines or simply arriving on time, I strive to be punctual.
+
  
+
 #### Makers Academy (July 18th to October 10th)
 
-A intensive 16week selective Bootcamp focusing on:
+A intensive 16-week bootcamp focusing on:
 
 - paring to problem solve efficiently, requiring teamwork and communication.
 
@@ -75,8 +88,7 @@ A intensive 16week selective Bootcamp focusing on:
 
 - Testing of code to assure well written and adjustable codebases.
 
-- Learning stratigies and fundmental concepts to allow for quick learning of new languagies and technoliges. 
-
+- Learning strategies and fundamental concepts to allow for quick learning of various languages and technologies. 
 
 #### Clayesmore School (2015 - 2018)
 
@@ -94,7 +106,7 @@ A intensive 16week selective Bootcamp focusing on:
 
 #### Areas of strength
 
-●	Strong problem-solving and numeracy skills.
+●	Strong problem-solving and numerical skills.
 
 ●	Strong communication skills, both written and verbal, developed through education and customer-facing experience gained in previous jobs. 
 
@@ -104,5 +116,7 @@ A intensive 16week selective Bootcamp focusing on:
 
 ## Hobbies
 
-I like to run and train daily. I find it useful to use exercise to control stress, motivation, and focus. I also like to play five-aside with friends and enjoy walking with my dog. On the other hand, when I am not doing something physical, I have a strong interest in history and art and often spend weekends touring museums and galleries. 
+I like to run and train daily. I find it useful to use exercise to control stress, motivation, and focus. I also play five-aside with friends and enjoy walking with my dog. On the other hand, when I am not doing something physical, I have a strong interest in history and art and often spend weekends touring museums and galleries. 
+
+
 
