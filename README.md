@@ -14,7 +14,7 @@ I am a twenty-year-old junior developer. Despite what I lack in years I make up 
 
 ## Work Experience
 
-Power Naturally (start-date to end-date)  
+#### Power Naturally (start-date to end-date)  
 
 Apprentice renewables engineer
 
@@ -36,7 +36,7 @@ Apprentice renewables engineer
 
 -essential plumbing methods and techniques.
 
-Prestige Roofing Company (September 2019 – present)
+#### Prestige Roofing Company (September 2019 – present)
 
 Roofer
 
