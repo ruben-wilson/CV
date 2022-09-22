@@ -5,13 +5,11 @@ I am a twenty-year-old junior developer. Despite what I lack in years I make up 
 ## Projects
 
 | Name                         | Description       | Tech/tools        |
-
 | ---------------------------- | ----------------- | ----------------- |
-
-| Final project            | A webapp to do x. | React, Jest, etc. |
-
-| Something else worked on | A webapp to do y. | Ruby              |
-
+| Acebook                      | a Facebook clone. | node, express, jest, nodemon, hbs, Mongoose and cypress
+| MakersBnB                    | a Airbnb clone.   | sinatra, rackup, rspec, postgreSQL, tableplus and bootstrap
+| NotesApp                     |a dynamic note taking| node, jest, prettier and nodemon
+                                  web app. 
 ## Work Experience
 
 #### Power Naturally (start-date to end-date)  
@@ -56,57 +54,29 @@ Roofer
 
 ## Skills
 
-Consider skills relevant to software development. Then consider your best skills. Pick 2-4 skills and write a short descriptive paragraph for each one. You should demonstrate how capable you are at this skill with examples.
+#### Determinated 
+ i am always persistant in anything i do wether that is waking up at 5AM to train for the marines before work or staying up till past midnight to try solve a bug in one of my makers team projects, im always ready to give my all to achieve my goal. 
 
-(Using a STAR example Paragraph) Consider the questions below.
-
--STAR
-
--What was the situation/task? (ST)
-
--How was the skill used?
-
--What did you do? (action)
-
--What was the result?
-
-#### This Skill
-
-- Experience
-
-- Achievements
-
-- Evidence (STAR)
-
-#### Another Skill
-
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed (again use STAR for this)
-
-- I achieved A during my work at B (job, or otherwise)
-
-- I contributed to the growth of X while doing Y (job, or otherwise)
-
-- I built this, made this, broke this, fixed this, etc.
-
-- A link to some online evidence (blogs, videos, articles, etc.)
-
-## Education
-
+### Team Player
+i injoy the  elevated levels of learning that seem to only be achieveable by working as a group. i also injoy the socail aspect of working in a team and love being able to use my enthusiam to motivate thoes around me and lift team spirits.
+ 
+ ### Punctual 
+ Im not sure wehter it was waking up early to work on the roofs or the threats of thrashings in the marines but ive always taken great pride in good time keeping. wether that means organising work to makesure i meet deadlines or simple arriving on time, i like to to keep to be punctual.
+ 
 #### Makers Academy (July 18th to October 10th)
 
-- Use short descriptions of what you did and a skill you used. (Similar to format from the 'Work Experience' section above)
+A intensive 16week selective Bootcamp focusing on:
 
-- e.g Frequently used paring to problem solve efficiently, requiring teamwork and communication.
+- paring to problem solve efficiently, requiring teamwork and communication.
 
-- you might also mention aspects some other skills/knowledge listed below: 
+- Design concepts such as OPP, TDD, MVC and DDD.
 
-- OOP, TDD, MVC, DDD
+- Agile Development process to build applications dynamically and quickly in a team.
 
-- Agile/XP
+- Testing of code to assure well written and adjustable codebases.
 
-- Ruby, Rails, JavaScript
+- Learning stratigies and fundmental concepts to allow for quick learning of new languagies and technoliges. 
 
-- RSpec, Jasmine
 
 #### Clayesmore School (2015 - 2018)
 
@@ -122,7 +92,7 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 •	Computer Science - 6 
 
-#### Any other qualifications
+#### Areas of strength
 
 ●	Strong problem-solving and numeracy skills.
 
@@ -130,7 +100,7 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 ●	Ability to take the initiative and work well under pressure, ensuring strict deadlines are met.
 
-●	Strong team player with effective  interpersonal skills
+●	Strong team player with effective interpersonal skills
 
 ## Hobbies
 
