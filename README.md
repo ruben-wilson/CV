@@ -19,21 +19,21 @@ Apprentice renewables engineer
 
 - learnt how to work well in a team, 
 
--manage and organise a demanding schedule,
+- manage and organise a demanding schedule,
 
--deal with clients on a one-on-one basis.
+- deal with clients on a one-on-one basis.
 
 - quickly learn complicated concepts such as, 
 
--read and understand technical wiring and piping plans 
+- read and understand technical wiring and piping plans 
 
 - troubleshooting methods and solutions, 
 
--using different interfaces and unit systems, 
+- using different interfaces and unit systems, 
 
--customer care and management,
+- customer care and management,
 
--essential plumbing methods and techniques.
+- essential plumbing methods and techniques.
 
 #### Prestige Roofing Company (September 2019 – present)
 
