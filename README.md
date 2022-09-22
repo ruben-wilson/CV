@@ -27,7 +27,7 @@ Apprentice renewables engineer
 
 - read and understand technical wiring and piping plans 
 
-- troubleshooting methods and solutions, 
+- troubleshooting methods
 
 - using different interfaces and unit systems, 
 
