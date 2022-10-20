@@ -45,7 +45,7 @@ An intensive 16-week Bootcamp focusing on:
 
 - Sustained a fractured shoulder socket after a rope climb which led to me being medically discharged.
 
-**Power Naturally (2021-2022) Apprentice renewables engineer
+**Power Naturally (2021-2022)** Apprentice renewables engineer
 
 - Worked well in a team
 - managed and organised a demanding schedule
@@ -57,7 +57,7 @@ An intensive 16-week Bootcamp focusing on:
 - using different interfaces and unit systems
 - Providing good customer care and management.
 
-**Prestige Roofing Company (September 2019 – 2021) Roofer
+**Prestige Roofing Company (September 2019 – 2021)** Roofer
 
 - This was one of the jobs I undertook while training for the marines and it helped me in the marines as it developed both my fitness and leadership skills.
 - Working as part of a team, using clear and precise communication to safely complete contracted tasks.
