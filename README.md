@@ -45,7 +45,7 @@ An intensive 16-week Bootcamp focusing on:
 
 - Sustained a fractured shoulder socket after a rope climb which led to me being medically discharged.
 
-**Power Naturally (2021-2022 ****) -** Apprentice renewables engineer
+**Power Naturally (2021-2022****) -** Apprentice renewables engineer
 
 - Worked well in a team
 - managed and organised a demanding schedule
