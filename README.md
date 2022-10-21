@@ -10,9 +10,11 @@ After spending nearly two years of life preparing for the Marines, I never expec
 
 | **Name** | **Description** | **Tech/tools** |
 | ---      | ---             | ---            |
+| reefRunner| a side scroller game| Js, Phaser.js, html canvas |
 | Acebook | a Facebook clone. | node, express, jest, nodemon, hbs, mongoose and cypress |
 | Makers BnB | a Airbnb clone. | sinatra, rackup, rspec, postgreSQL, tableplus and bootstrap |
 | NotesApp | a dynamic note taking web app. | node, jest, prettier and nodemon |
+| chitter | a twitter clone| sinatra, rackup, rspec, postgresSQL, tableplus and postman 
 
 **Experience**
 
