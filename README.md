@@ -8,13 +8,14 @@ After spending nearly two years of life preparing for the Marines, I never expec
 
 **Projects**
 
+
 | **Name** | **Description** | **Tech/tools** |
 | ---      | ---             | ---            |
-| reefRunner| a side scroller game| JS, Phaser.js and html canvas |
-| Acebook | a Facebook clone. | node, express, jest, nodemon, hbs, mongoose and cypress |
-| Makers BnB | a Airbnb clone. | sinatra, rackup, rspec, postgreSQL, tableplus and bootstrap |
-| NotesApp | a dynamic note taking web app. | node, jest, prettier and nodemon |
-| chitter | a twitter clone| sinatra, rackup, rspec, postgresSQL, tableplus and postman |
+|[reefRunner](https://github.com/ruben-wilson/team-sea-urchins)| side scroller game | JS, Phaser.js and html canvas |
+|[Acebook](https://github.com/ruben-wilson/acebook-node-slugs) | Facebook clone | node, express, jest, nodemon, hbs, mongoose and cypress |
+|[Makers BnB](https://github.com/ruben-wilson/makersbnb)| Airbnb clone | sinatra, rackup, rspec, postgreSQL, tableplus and bootstrap |
+|[tasksApp](https://github.com/ruben-wilson/tasks-app) | a dynamic note taking web app | node, jest, express and nodemon |
+|[chitter](https://github.com/ruben-wilson/chitter-challenge) | a twitter clone| sinatra, rackup, rspec, postgresSQL, tableplus and postman |
 
 
 **Experience**
