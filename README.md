@@ -1,6 +1,6 @@
 Ruben Wilson
 
-I am a twenty-year-old junior developer who is highly enthusiastic and driven. After sustaining an injury in the Royal Marine's commando training, I was left with a fractured shoulder socket requiring at least a year's recovery. This left me with the time to fall back in love with coding.
+I am a junior developer who is highly enthusiastic and driven. After sustaining an injury in the Royal Marine's commando training, I was left with a fractured shoulder socket requiring at least a year's recovery. This left me with the time to fall back in love with coding.
 
 I've always liked to break down the chaos of life into a logic which I can use to achieve goals and make sense of the complexities that make up the world around us. I believe this is why coding gives me so much pleasure.
 
