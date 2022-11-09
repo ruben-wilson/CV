@@ -102,7 +102,7 @@ I am not sure whether it was waking up early to work on the roofs or the threats
 
 • Mathematics - 5
 
-- Computer Science - 6
+• Computer Science - 6
 
 **Areas of strength**
 
