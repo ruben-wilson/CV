@@ -15,7 +15,7 @@ After spending nearly two years of life preparing for the Marines, I never expec
 |[Acebook](https://github.com/ruben-wilson/acebook-node-slugs) | Facebook clone | node, express, jest, nodemon, hbs, mongoose and cypress |
 |[Makers BnB](https://github.com/ruben-wilson/makersbnb)| Airbnb clone | sinatra, rackup, rspec, postgreSQL, tableplus and bootstrap |
 |[tasksApp](https://github.com/ruben-wilson/tasks-app) | a dynamic note taking web app | node, jest, express and nodemon |
-|[BankTech](https://github.com/ruben-wilson/bank-tech-test)| A tech test of OOP, TDD process | 	Node, Jest, ESlint |
+|[Bank Tech Test](https://github.com/ruben-wilson/bank-tech-test)| A tech test of OOP, TDD process | 	Node, Jest, ESlint |
 |[chitter](https://github.com/ruben-wilson/chitter-challenge) | a twitter clone| sinatra, rackup, rspec, postgresSQL, tableplus and postman |
 
 
